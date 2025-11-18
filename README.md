@@ -1,9 +1,9 @@
 <h1 align="center">Hey Hey👋 It's Sina here</h1>
 <h3 align="center">A passionate Data Scientist🐍 from Berlin</h3>
 
-- 🧑‍💻 I’m currently working on **Emotion Detection Project using various DL models.**
+- 🧑‍💻 I’m currently working on **a data science project using nlp on berlin restaurant reviews**
 
-- 🌱 I’m currently learning **Power Bi, google data engineer**
+- 🌱 I’m currently learning **Power Bi**
 
 - 🕵️ I’m looking to collaborate on **more machine learning projects and dive deeper into the AI world.**
 
