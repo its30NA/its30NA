@@ -1,13 +1,11 @@
 <h1 align="center">Hey Hey👋 It's Sina here</h1>
-<h3 align="center">A passionate Data Scientist🐍 from Berlin</h3>
+<h3 align="center">A Data Scientist🐍 from Berlin</h3>
 
 - 🧑‍💻 I’m currently working on **a data science project using nlp on berlin restaurant reviews**
 
-- 🌱 I’m currently learning **How to make more actually trustworthy self projects, rather than producing random/fake results**
-
 - 🕵️ I’m looking to collaborate on **more machine learning projects and dive deeper into the AI world.**
 
-- 💬 Ask me about **where one can enjoy a cup of coffee and have a fun conversation while one cell of code takes forever to execute**
+- 💬 Ask me about **where one can enjoy a cup of coffee and have a fun conversation while one cell of notebook debugging code takes forever to execute**
 
 - 📫 How to reach me **sina.kashani13@gmail.com**
 
