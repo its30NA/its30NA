@@ -3,15 +3,13 @@
 
 - 🧑‍💻 I’m currently working on **a data science project using nlp on berlin restaurant reviews**
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently learning **How to make more actually trustworthy self projects, rather than producing random/fake results**
 
 - 🕵️ I’m looking to collaborate on **more machine learning projects and dive deeper into the AI world.**
 
-- 💬 Ask me about **where one can enjoy a cup of coffee and have a fun conversation while the model is training :)**
+- 💬 Ask me about **where one can enjoy a cup of coffee and have a fun conversation while one cell of code takes forever to execute**
 
 - 📫 How to reach me **sina.kashani13@gmail.com**
-
-- ⚡ Fun fact **I question my knowledge in almost anything once in a while, so I tend to seek help each time, just to make sure I'm on the right track!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
