@@ -11,6 +11,16 @@
 
 - 📫 Reach me at **sina.kashani13@gmail.com**
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+- **[Emotion Detection with ResNet](https://github.com/its30NA/ResNet-for-Emotion-Detection)** — deep-learning emotion recognition on **infrared imagery**, adapting ResNet for IR image processing. *(Computer Vision · Deep Learning)*
+
+- **[redactor](https://github.com/its30NA/redactor)** — a local, **privacy-first** text sanitizer that redacts secrets before you share text with external AI assistants — runs fully offline. *(Python)*
+
+- **[Speech Emotion Detection](https://github.com/its30NA/Speech-Emotion-Detection)** — **CNN-based** emotion recognition from speech, trained on a comprehensive Kaggle dataset. *(Deep Learning)*
+
+- 🍽️ On the side, I've also tinkered with **[berlin_bites](https://github.com/its30NA/berlin_bites)** — an earlier NLP experiment mining Berlin restaurant reviews (exploratory side project, currently on the back burner).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sina-nk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn – sina-nk" height="30" width="40" /></a>
