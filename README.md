@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Sina 👋</h1>
 <h3 align="center">Computer Vision & Machine Learning Engineer, based in Berlin 🐍</h3>
 
-- 🧑‍💻 Currently building **a real-time computer vision system for video analytics** (project under NDA 🤫)
+- 🧑‍💻 Currently building **a real-time computer vision system for video analytics** (project under NDA)
 
 - 🔭 Focused on **Computer Vision · Deep Learning · Real-Time Video · Edge AI · MLOps**
 
 - 🤝 Open to collaborating on **computer vision, deep learning, and real-time AI applications**
-
-- ☕ Ask me about **coffee, computer vision, or why notebook cells always hang right before a deadline**
 
 - 📫 Reach me at **sina.kashani13@gmail.com**
 
